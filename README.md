@@ -134,7 +134,7 @@ Q: 我想参与协作，该怎么做？ A:太好了！请先 Fork 本项目，�
 
 📜 许可证
 
-本项目采用 Open Eastern Revelation License（修改版MIT协议）。详情请查看 LICENSE 文件。
+本项目采用 Open Eastern Revelation License（修改版MIT协议，本质上是在MIT协议基础上修改了名称以贴合项目主题）。详情请查看 LICENSE 文件。
 
 ---
 
